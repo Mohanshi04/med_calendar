@@ -37,8 +37,7 @@ dependencies:
 ### Installation
 
 1. Clone the Repository
-
-   ```bash
+  ```bash
    git clone https://github.com/Mohanshi04/med_calendar.git
    cd med_calendar
   ```
@@ -50,7 +49,7 @@ dependencies:
 
 3. Run the App
    ```bash
-   flutter run'
+   flutter run
    ```
 
 ### API format
