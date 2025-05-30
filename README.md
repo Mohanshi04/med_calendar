@@ -23,6 +23,7 @@ dependencies:
   http: ^1.1.0
   table_calendar: ^3.0.9
   intl: ^0.18.1
+```
 
 ## Getting Started
 
