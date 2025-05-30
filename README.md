@@ -36,25 +36,27 @@ dependencies:
 
 ### Installation
 
-1. Clone the Repository
-  ```bash
+1. Clone the Repository  
+   ```bash
    git clone https://github.com/Mohanshi04/med_calendar.git
    cd med_calendar
-  ```
+   ```
 
-2. Install Dependencies
-  ```bash
-  flutter pub get
-  ```
+2. Install Dependencies  
+   ```bash
+   flutter pub get
+   ```
 
-3. Run the App
+3. Run the App  
    ```bash
    flutter run
    ```
 
-### API format
+## API Format
+
 The app expects the API to return JSON in the following format:
-```bash
+
+```json
 {
   "intake_history": [
     { "date": "01/05/2025", "dose": 100 },
@@ -66,8 +68,11 @@ The app expects the API to return JSON in the following format:
 ```
 
 ## Project Structure
+
+```
 med_calendar/
 ├── lib/
 │   └── main.dart
 ├── pubspec.yaml
 ├── README.md
+```
